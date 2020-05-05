@@ -2,4 +2,4 @@
 
 Este repositório serve de exemplo para o curso de Git e GitHub.
 
-![./yoda.png](Yoda)
+![alt text](/yoda.png "Yoda")
